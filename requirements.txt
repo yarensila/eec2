@@ -1,0 +1,8 @@
+# Transformer Power System Calculator
+# Python Requirements
+# Tested with Python 3.8+
+
+# Core Dependencies
+numpy>=1.21.0
+PyQt5>=5.15.0
+matplotlib>=3.5.0
